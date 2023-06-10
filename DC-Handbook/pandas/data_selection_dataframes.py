@@ -63,5 +63,28 @@ print('='*64)
 data.iloc[0,2] = 90
 print(data)
 
+print('='*64)
+
+# Aditional indexing Coventions
+
+print(data['Florida':'New York'])
+
+
+print('='*64)
+
+print(data[1:3])
+
+print('='*64)
+
+print(data[data.density>120])
+
+
+
+
+
+
+
+
+
 
 
