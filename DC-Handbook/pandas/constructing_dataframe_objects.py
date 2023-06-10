@@ -24,9 +24,30 @@ print(pd.DataFrame(data))
 
 print('='*64)
 
+
 # from a dictionary of series object
 
 print(pd.DataFrame({'popularion': population, 'area': area}))
+
+
+print('='*64)
+
+# from a two dimensional numpy array
+
+print(pd.DataFrame(np.random.rand(3,2),
+                   columns=['foo', 'bar'],
+                   index = ['a','b','c']))
+
+print('='*64)
+
+# From a Numpy strictured array
+
+A = np.zeros(3, dtype=[('A', '<i8'), ('B', '<f8')])
+print(A)
+
+print(pd.DataFrame(A))
+
+
 
 
 
