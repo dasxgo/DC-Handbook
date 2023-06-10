@@ -26,4 +26,16 @@ print('='*64)
 data['e'] = 1.25
 print(data)
 
+print('='*64)
 
+# Series as One - Dimensioinal Array
+
+
+print(data['a':'c'])
+print(data[0:2])
+print(data[['a', 'e']])
+
+print('='*64)
+
+print(data[(data>0.3)])
+print(data[(data>0.8)])
