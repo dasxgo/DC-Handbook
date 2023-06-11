@@ -1,8 +1,6 @@
 import pandas as pd
 import numpy as np
 
-import pandas as pd
-import numpy as np
 
 index = [('California', 2010), ('California', 2020),
          ('New York', 2010), ('New York', 2020), 
