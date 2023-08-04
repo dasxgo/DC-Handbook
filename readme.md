@@ -1,4 +1,4 @@
-# Python Data Science Handbook
+# Data Science Handbook
 # Este handbook es un libro de o'reilly donde se aplican ejemplos y codigo del mismo
 
 # Índice
