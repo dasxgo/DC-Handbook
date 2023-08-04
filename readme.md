@@ -5,6 +5,8 @@ Este handbook de o'reilly donde se aplican ejemplos y codigo del mismo referente
 
 - Numpy
 - Pandas
+- Matplotlib
+- Seaborn
 - ML
 
 # Instrucciones de Instalación
