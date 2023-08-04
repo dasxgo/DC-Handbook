@@ -1,7 +1,7 @@
 # Data Science Handbook
 Este handbook de o'reilly donde se aplican ejemplos y codigo del mismo referente a data science.
 
-# Índice
+## Índice
 
 - Numpy
 - Pandas
@@ -9,24 +9,24 @@ Este handbook de o'reilly donde se aplican ejemplos y codigo del mismo referente
 - Seaborn
 - ML
 
-# Instrucciones de Instalación
+## Instrucciones de Instalación
 Ver requeriments.txt las aplicaciones necesarias, asegurese de crear un ambiente virtual propio para este trabajo.
 
-# Uso
+## Uso
 Para practicar y aprendizaje de python 
 
-# Ejemplos
+## Ejemplos
 Contiene varios ejemplos de herramientas esencias y trabjo de datos con python. 
 
-# Contribución
+## Contribución
 Puede contribuir a traves de github.
 
-# Créditos
+## Créditos
 O'REILLY - Jake VanderPlas
 
-# Licencia
+## Licencia
 Indica la licencia bajo la cual se distribuye el proyecto. Esto es importante para aclarar cómo se pueden usar y modificar tus archivos.
 
-# Contacto
+## Contacto
 dasxgo@icloud.com
 
